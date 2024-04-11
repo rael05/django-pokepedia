@@ -1,0 +1,4 @@
+images/
+pokemon/__pycache__/
+pokemon/migrations/__pycache__/
+pokepedia/__pycache__/
